@@ -1,3 +1,6 @@
 # malapi.io-scraper
 
-scrapes [malapi.io](https://malapi.io/)
+Command-line utility that scrapes contents of [malapi.io](https://malapi.io/) and export the results to a csv file.
+
+![img.png](img.png)
+
