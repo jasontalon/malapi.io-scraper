@@ -10,4 +10,6 @@ You can find the executable file in the [release](https://github.com/jasontalon/
 
 Or, you may build your own by downloading the Go SDK and by cloning the repository then run the following
 
-```make build```
+```
+make build
+```
